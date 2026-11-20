@@ -11,6 +11,42 @@ A console-based Automated Teller Machine (ATM) system built in C++. This project
 - **Data Persistence**: Client data is saved and loaded from a local text file (`Clients.txt`).
 - **Input Validation**: Robust error handling for invalid inputs (e.g., negative amounts, non-numeric characters).
 
+## 📸 Project Screenshots
+
+### 🔐 1. Login Screen
+![Login Screen](assets/Login%20Screen.png)
+*Secure authentication using Account Number and Pin Code.*
+
+---
+
+### 🏠 2. Main Menu
+![ATM Main Menu Screen](assets/ATM%20Main%20Menu%20Screen.png)
+*The main hub for all banking operations.*
+
+---
+
+### 💵 3. Quick Withdraw
+![Quick Withdraw Screen](assets/Quick%20Withdraw%20Screen.png)
+*Fast withdrawal with predefined amounts (20 to 1000).*
+
+---
+
+### 💰 4. Normal Withdraw
+![Normal Withdraw Screen](assets/Normal%20Withdraw%20Screen.png)
+*Custom amount withdrawal (multiples of 5).*
+
+---
+
+### 📥 5. Deposit
+![Deposit Screen](assets/Deposit%20Screen.png)
+*Add funds to the account with confirmation prompt.*
+
+---
+
+### 📊 6. Check Balance
+![Check Balance Screen](assets/Check%20Balance%20Screen.png)
+*Real-time balance inquiry.*
+
 ## 🛠️ Technologies Used
 - **Language**: C++
 - **IDE**: Visual Studio 2022
